@@ -3,7 +3,10 @@
 # Groep:
 
 # Hier komt je code...
+naam = "willem"
+achternaam = "van der broek" 
+leeftijd = "23 jaar"
+favorietekleur = "blauw"
 
-my_dict = ...
-
-print()
+my_dict = [naam, achternaam, leeftijd, favorietekleur]
+print(my_dict)
