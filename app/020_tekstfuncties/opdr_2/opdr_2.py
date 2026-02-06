@@ -4,6 +4,8 @@
 
 # Hier komt je code...
 
-my_list = ...
+my_list = 'Tinus gaat op zijn tandem naar de hottentottententoonstelling'
+count = my_list.count("t")
 
-print()
+print(my_list)
+print('De letter "t" komt ' + str(count) + 'x voor in de zin.')
